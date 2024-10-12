@@ -53,10 +53,10 @@ See also
 ---
 # vidquery
 
-[![codecov](https://codecov.io/gh/anshulrai10/VidQuery/branch/main/graph/badge.svg?token=VidQuery_token_here)](https://codecov.io/gh/anshulrai10/VidQuery)
-[![CI](https://github.com/anshulrai10/VidQuery/actions/workflows/main.yml/badge.svg)](https://github.com/anshulrai10/VidQuery/actions/workflows/main.yml)
+[![codecov](https://codecov.io/gh//VidQuery/branch/main/graph/badge.svg?token=VidQuery_token_here)](https://codecov.io/gh//VidQuery)
+[![CI](https://github.com//VidQuery/actions/workflows/main.yml/badge.svg)](https://github.com//VidQuery/actions/workflows/main.yml)
 
-Awesome vidquery created by anshulrai10
+Awesome vidquery created by 
 
 ## Install it from PyPI
 

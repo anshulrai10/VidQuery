@@ -32,11 +32,11 @@ def read_requirements(path):
 setup(
     name="vidquery",
     version=read("vidquery", "VERSION"),
-    description="Awesome vidquery created by anshulrai10",
-    url="https://github.com/anshulrai10/VidQuery/",
+    description="Awesome vidquery created by ",
+    url="https://github.com//VidQuery/",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
-    author="anshulrai10",
+    author="",
     packages=find_packages(exclude=["tests", ".github"]),
     install_requires=read_requirements("requirements.txt"),
     entry_points={
