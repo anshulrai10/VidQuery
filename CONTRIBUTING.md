@@ -10,7 +10,7 @@ This instructions are for linux base systems. (Linux, MacOS, BSD, etc.)
 - On github interface click on `Fork` button.
 - Clone your fork of this repo. `git clone git@github.com:YOUR_GIT_USERNAME/VidQuery.git`
 - Enter the directory `cd VidQuery`
-- Add upstream repo `git remote add upstream https://github.com/anshulrai10/VidQuery`
+- Add upstream repo `git remote add upstream https://github.com//VidQuery`
 
 ## Setting up your own virtual environment
 
